@@ -59,13 +59,15 @@
 <div align="center">
   
   ☽ ༺ ☾ ༻ ☽ ༺ ☾ ༻ ☽ ༺ ☾ ༻ ☽
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad0dev&layout=compact&theme=dracula&bg_color=0d1117&text_color=bd93f9&hide_border=true&title_color=ff79c6" alt="Top languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad0dev&layout=compact&theme=dracula&bg_color=0d1117&text_color=bd93f9&hide_border=true&title_color=ff79c6" alt="Top languages" />
+  
   
   ⸸ ☾ ⸸ ☾ ⸸ ☾ ⸸ ☾ ⸸ ☾ ⸸
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad0dev&theme=dracula&background=0d1117&ring=8B0000&fire=ff79c6&currStreakLabel=bd93f9&hide_border=true" alt="Ziad0dev's GitHub streak stats" />
 
-☽ ༺ ☾ ༻ ☽ ༺ ☾ ༻ ☽ ༺ ☾ ༻ ☽
+  ☽ ༺ ☾ ༻ ☽ ༺ ☾ ༻ ☽ ༺ ☾ ༻ ☽
 
   <img src="https://github-readme-stats.vercel.app/api?username=Ziad0dev&show_icons=true&theme=dracula&bg_color=0d1117&text_color=bd93f9&hide_border=true&icon_color=8B0000&title_color=ff79c6" alt="Ziad0dev's GitHub stats" />
 
