@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=☠+Just+a+dev+☠;⸸+hacking+is+my+ritual+⸸;☽+Python+%26+C+enjoyer+☾; Hail+Satan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=☠+Just+a+dev+☠;⸸+hacking+is+my+ritual+⸸;☽+Python+and+C+enjoyer+☾;⸸+Hail+Satan+⸸" alt="Typing SVG" />
 </div>
 
 <p align="center">
